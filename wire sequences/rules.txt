@@ -1,0 +1,30 @@
+RED
+c
+b
+a
+a c
+b
+a c
+a b c
+a b
+b
+BLUE
+b
+a c
+b
+a
+b
+a c
+a b c
+a b
+b
+BLACK
+a b c
+a c
+b
+a c
+b
+b c
+a b
+c
+c
