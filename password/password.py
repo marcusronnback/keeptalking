@@ -1,5 +1,8 @@
-words = ["about","after","again","below","could","every","first","found","great","house","large","learn","never","other","place",
-           "plant","point","right","small","sound","spell","still","study","their","there","these","thing","think","three","water","where","which","world","would","write"]
+file = open("words.txt","r")
+for line in file:
+    words.append(line)
+print(words)
+
 words2 = []
 words3 = []
 words4 = []
