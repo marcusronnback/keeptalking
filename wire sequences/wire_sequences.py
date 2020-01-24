@@ -1,5 +1,5 @@
 class wire_sequences:
-    file_rules = "C:\\Users\\Axel\\Documents\\GitHub\\keeptalking\\wire sequences\\rules.txt"
+    file_rules = "rules.txt"
     rules = {"RED": [], "BLUE": [], "BLACK": []}
 
     inputs = {}
