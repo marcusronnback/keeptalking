@@ -1,6 +1,8 @@
+words = []
 file = open("words.txt","r")
 for line in file:
-    words.append(line)
+    nl = line.rstrip()
+    words.append(nl)
 print(words)
 
 words2 = []
@@ -41,3 +43,5 @@ for i in words5:
 print(words6)
 if len(words6) == 1:
     print(f"**********************    WORD IS:       {words6}                ************************")
+else:
+    print("no word found you suck lol kys xd")
